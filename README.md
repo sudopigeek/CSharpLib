@@ -1,4 +1,4 @@
-Welcome to the CSharpLib wiki!
+Welcome to CSharpLib!
 
 CSharpLib is a library that, in short, makes easy tasks easier.
 
